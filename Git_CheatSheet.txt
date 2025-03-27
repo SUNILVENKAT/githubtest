@@ -1,0 +1,12 @@
+git add . #to stage the changes
+git commit #to commit changes in local repository
+	this will enter gitbash (vi editor)
+	press i to enter insert
+		add or edit file
+	press esc to exit insert
+	type :x! to save changes or :q! to disgard
+git commit -m "Commit message" #to commit changes in local repository with message
+git push #to push the changes from local repository to central repository
+
+git fetch #to fetch the changes from central repository
+git pull #to pull any changes made to central repository to local repository
