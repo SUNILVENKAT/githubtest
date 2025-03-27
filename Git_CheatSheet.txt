@@ -6,6 +6,8 @@ git commit #to commit changes in local repository
 	press esc to exit insert
 	type :x! to save changes or :q! to disgard
 git commit -m "Commit message" #to commit changes in local repository with message
+
+git commit -m "Commit message" -a #to add and commit changes instead of doing it in 2 steps
 git push #to push the changes from local repository to central repository
 
 git fetch #to fetch the changes from central repository
